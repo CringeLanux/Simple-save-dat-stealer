@@ -1,4 +1,4 @@
-# KultaHax
+# Save.dat stealer
 
 
 Credits to https://github.com/TheC0mpany/ for Save.dat decrypter.
